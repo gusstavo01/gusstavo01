@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou Gustavo 👋</h1>
-  <h3>Software Developer</h3>
+  <h3>Software Developer 🖥️</h3>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusstavo01/)
