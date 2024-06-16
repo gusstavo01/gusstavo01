@@ -22,5 +22,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusstavo01&layout=compact)
 
-#### Apaixonado por tecnologia,  atualmente estou estudando engenharia de software. Sonho em mudar a vida das pessoas através da programação.
+<h3> Apaixonado por tecnologia,  atualmente estou estudando engenharia de software. Sonho em mudar a vida das pessoas através da programação. ✨</h3>
 
